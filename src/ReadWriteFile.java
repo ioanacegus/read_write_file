@@ -4,6 +4,8 @@ public class ReadWriteFile {
 
     public static void main(String args[])
     {
+        //Cegus Ioana-Mihaela
+        
         String fileIn = "D://file_in.txt";
         String fileOut = "D://file_out.txt";
 
